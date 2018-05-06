@@ -1,0 +1,23 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+	Being able to use the diff function allowed me to view two different versions of a file side-by-side, making it easier to catch any differences between the two, therefore making bug-finding much easier.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	
+	Having easy access makes you a more efficient programmer in the long term because it makes it easier for you to find out where bugs were introduced. Furthermore, it makes the steps you took to get to where you are simple to follow and understand.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+	Manually choosing when to create a commit allows you to have versions of your files saved at logical checkpoints, rather than creating unnecessary clutter via automatic commits.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	The command "git log" allows you to see all the commits made to a file (the repository). Using the commit IDs provided by git log, you're able to use the command "git diff" to see what was changed between two different commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+	With version control, you're able to easily revert back to a past version of a file. This makes it less risky to experiment with code, because you know that you're always able to go back to what you had before if you accidentally introduce a bug or if you just don't like what you changed.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Anything! I'm still fairly new to computer science and version control, so simply fiddling around with Git would be fine. I think finding bugs would be a good and easy place to start, and after that I'd like to move on to something more challenging!
